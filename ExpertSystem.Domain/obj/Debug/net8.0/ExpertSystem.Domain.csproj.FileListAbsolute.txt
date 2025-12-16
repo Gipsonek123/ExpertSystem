@@ -1,0 +1,12 @@
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\bin\Debug\net8.0\ExpertSystem.Domain.deps.json
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\bin\Debug\net8.0\ExpertSystem.Domain.dll
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\bin\Debug\net8.0\ExpertSystem.Domain.pdb
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ExpertSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ExpertSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ExpertSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ExpertSystem.Domain.AssemblyInfo.cs
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ExpertSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ExpertSystem.Domain.dll
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\refint\ExpertSystem.Domain.dll
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ExpertSystem.Domain.pdb
+C:\Users\gipso\OneDrive\Pulpit\ExpertSystem\ExpertSystem.Domain\obj\Debug\net8.0\ref\ExpertSystem.Domain.dll
